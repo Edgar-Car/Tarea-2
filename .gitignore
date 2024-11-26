@@ -1,0 +1,4 @@
+*.java
+//Este archivo debe de ignorar el subir los archivos tipo java
+*.class
+//Este codigo sirve para
